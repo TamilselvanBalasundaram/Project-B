@@ -4,3 +4,5 @@ Username
 Password
 Sign in
 sign up
+Forgot password
+Forgot username
