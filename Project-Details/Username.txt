@@ -1,2 +1,6 @@
 available
 valid
+Username taken
+Enter another
+Already in use
+
