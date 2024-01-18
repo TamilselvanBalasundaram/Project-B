@@ -6,3 +6,8 @@ Sign in
 sign up
 Forgot password
 Forgot username
+Enter email
+To verify it's you
+Verfication code has been sent
+Resend in 60 seconds
+
